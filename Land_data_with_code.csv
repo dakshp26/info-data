@@ -1,4 +1,4 @@
-,Entity,Code,Year,Arable land needed to produce a fixed quantity of crops ((1.0 = 1961)),country-code
+,Entity,Code,Year,Arable land needed to produce a fixed quantity of crops ((1 = 1961)),country-code
 0,Afghanistan,AFG,1961.0,1.0,4.0
 1,Afghanistan,AFG,1962.0,0.984297681,4.0
 2,Afghanistan,AFG,1963.0,1.014870248,4.0
