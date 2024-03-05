@@ -1,4 +1,4 @@
-Unnamed,Entity,Year,Arable land needed to produce a fixed quantity of crops
+Unnamed: 0,Entity,Year,Arable land needed to produce a fixed quantity of crops
 0,Afghanistan,1961,1.0
 1,Afghanistan,1962,0.984297681
 2,Afghanistan,1963,1.014870248
@@ -1295,58 +1295,6 @@ Unnamed,Entity,Year,Arable land needed to produce a fixed quantity of crops
 1293,Brazil,2012,0.586000853
 1294,Brazil,2013,0.570869342
 1295,Brazil,2014,0.591826351
-1296,British Virgin Islands,1961,1.0
-1297,British Virgin Islands,1962,0.445070423
-1298,British Virgin Islands,1963,0.401015228
-1299,British Virgin Islands,1966,0.054323534
-1300,British Virgin Islands,1967,0.046165084
-1301,British Virgin Islands,1968,0.046165084
-1302,British Virgin Islands,1969,0.046704109
-1303,British Virgin Islands,1970,0.047051817
-1304,British Virgin Islands,1971,0.039924195
-1305,British Virgin Islands,1972,0.038711258
-1306,British Virgin Islands,1973,0.036485394
-1307,British Virgin Islands,1974,0.035783037
-1308,British Virgin Islands,1975,0.033137584
-1309,British Virgin Islands,1976,0.032267946
-1310,British Virgin Islands,1977,0.030829268
-1311,British Virgin Islands,1978,0.029359844
-1312,British Virgin Islands,1979,0.028161483
-1313,British Virgin Islands,1980,0.025954825
-1314,British Virgin Islands,1981,0.024547503
-1315,British Virgin Islands,1982,0.035827664
-1316,British Virgin Islands,1983,0.035556222
-1317,British Virgin Islands,1984,0.034865759
-1318,British Virgin Islands,1985,0.034611172
-1319,British Virgin Islands,1986,0.033655212
-1320,British Virgin Islands,1987,0.033693489
-1321,British Virgin Islands,1988,0.032859619
-1322,British Virgin Islands,1989,0.04361428
-1323,British Virgin Islands,1990,0.076071257
-1324,British Virgin Islands,1991,0.039954482
-1325,British Virgin Islands,1992,0.035941765
-1326,British Virgin Islands,1993,0.034143706
-1327,British Virgin Islands,1994,0.03479793
-1328,British Virgin Islands,1995,0.033840223
-1329,British Virgin Islands,1996,0.033085541
-1330,British Virgin Islands,1997,0.032480214
-1331,British Virgin Islands,1998,0.031990281
-1332,British Virgin Islands,1999,0.016293699
-1333,British Virgin Islands,2000,0.016185208
-1334,British Virgin Islands,2001,0.016097809
-1335,British Virgin Islands,2002,0.016017843
-1336,British Virgin Islands,2003,0.01606344
-1337,British Virgin Islands,2004,0.015961208
-1338,British Virgin Islands,2005,0.015782639
-1339,British Virgin Islands,2006,0.015659068
-1340,British Virgin Islands,2007,0.01544779
-1341,British Virgin Islands,2008,0.01487899
-1342,British Virgin Islands,2009,0.014452982
-1343,British Virgin Islands,2010,0.014008334
-1344,British Virgin Islands,2011,0.01356456
-1345,British Virgin Islands,2012,0.0126562
-1346,British Virgin Islands,2013,0.012768709
-1347,British Virgin Islands,2014,0.013465144
 1348,Brunei,1961,1.0
 1349,Brunei,1962,1.027115952
 1350,Brunei,1963,1.155308831
@@ -9663,56 +9611,6 @@ Unnamed,Entity,Year,Arable land needed to produce a fixed quantity of crops
 9661,Sri Lanka,2012,0.834379966
 9662,Sri Lanka,2013,0.783695999
 9663,Sri Lanka,2014,0.894508323
-9664,Sudan (former),1961,1.0
-9665,Sudan (former),1962,0.88990345
-9666,Sudan (former),1963,0.90784828
-9667,Sudan (former),1964,1.036545425
-9668,Sudan (former),1965,0.999321871
-9669,Sudan (former),1966,1.026503316
-9670,Sudan (former),1967,0.83242198
-9671,Sudan (former),1968,1.009780162
-9672,Sudan (former),1969,0.829828044
-9673,Sudan (former),1970,0.783231312
-9674,Sudan (former),1971,0.754093921
-9675,Sudan (former),1972,0.747615104
-9676,Sudan (former),1973,0.784685575
-9677,Sudan (former),1974,0.654842261
-9678,Sudan (former),1975,0.672717326
-9679,Sudan (former),1976,0.743208732
-9680,Sudan (former),1977,0.678612985
-9681,Sudan (former),1978,0.67799359
-9682,Sudan (former),1979,0.807697977
-9683,Sudan (former),1980,0.786092561
-9684,Sudan (former),1981,0.685617779
-9685,Sudan (former),1982,0.832267636
-9686,Sudan (former),1983,0.74965765
-9687,Sudan (former),1984,0.826533497
-9688,Sudan (former),1985,0.678794333
-9689,Sudan (former),1986,0.701885529
-9690,Sudan (former),1987,0.780592301
-9691,Sudan (former),1988,0.62508556
-9692,Sudan (former),1989,0.877056654
-9693,Sudan (former),1990,0.97257109
-9694,Sudan (former),1991,0.705403372
-9695,Sudan (former),1992,0.613169685
-9696,Sudan (former),1993,0.852288152
-9697,Sudan (former),1994,0.680976299
-9698,Sudan (former),1995,0.749504245
-9699,Sudan (former),1996,0.645600061
-9700,Sudan (former),1997,0.661958042
-9701,Sudan (former),1998,0.635874324
-9702,Sudan (former),1999,0.677570931
-9703,Sudan (former),2000,0.652995931
-9704,Sudan (former),2001,0.556360623
-9705,Sudan (former),2002,0.575692396
-9706,Sudan (former),2003,0.532478642
-9707,Sudan (former),2004,0.55493902
-9708,Sudan (former),2005,0.536062658
-9709,Sudan (former),2006,0.516653052
-9710,Sudan (former),2007,0.543289428
-9711,Sudan (former),2008,0.564042004
-9712,Sudan (former),2009,0.546226187
-9713,Sudan (former),2010,0.631344428
 9714,Suriname,1961,1.0
 9715,Suriname,1962,0.87608807
 9716,Suriname,1963,0.864659992
