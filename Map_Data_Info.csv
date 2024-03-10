@@ -1,4 +1,4 @@
-,Entity,Code,Year,Wheat,Rice,Maize,Soybeans,Potatoes,Peas,Cassava,Barley,Bananas,Arable land needed to produce a fixed quantity of crops where 1 = 1961
+,Entity,Code,Year,Wheat,Rice,Maize,Soybeans,Potatoes,Peas,Cassava,Barley,Bananas,Arable land needed to produce a fixed quantity of crops
 0,Afghanistan,AFG,1961,1.022,1.519,1.4,,8.6667,,,1.08,,1.0
 1,Afghanistan,AFG,1962,0.9735,1.519,1.4,,7.6667,,,1.08,,0.984297681
 2,Afghanistan,AFG,1963,0.8317,1.519,1.4260000000000002,,8.1333,,,1.08,,1.014870248
